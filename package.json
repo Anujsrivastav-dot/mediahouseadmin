@@ -36,7 +36,7 @@
     "random-number": "0.0.9",
     "random-number-generator": "^1.0.2",
     "randomstring": "^1.1.5",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "util": "^0.12.1",
     "util.promisify": "^1.0.0",
     "xoauth2": "^1.2.0"
