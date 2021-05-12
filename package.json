@@ -30,7 +30,7 @@
     "morgan": "^1.9.1",
     "multer": "^1.4.2",
     "mv": "^2.1.1",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.18.4",
     "path": "^0.12.7",
     "random-number": "0.0.9",
